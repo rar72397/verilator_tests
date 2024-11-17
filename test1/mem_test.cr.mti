@@ -1,0 +1,8 @@
+C:/Users/rarod/OneDrive/Desktop/verilog_to_cpp/test.v {1 {vlog -work work -vopt -stats=none C:/Users/rarod/OneDrive/Desktop/verilog_to_cpp/test.v
+Model Technology ModelSim SE-64 vlog 10.6e Compiler 2018.06 Jun 23 2018
+-- Compiling module test_mem
+
+Top level modules:
+	test_mem
+
+} {} {}}
